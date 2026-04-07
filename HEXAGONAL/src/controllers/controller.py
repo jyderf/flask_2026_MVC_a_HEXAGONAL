@@ -23,3 +23,9 @@ def crear_blueprint_productos(
     return render_template("imagenes_productos.html", data2=data2)
 
   return productos_c
+
+
+
+
+
+
