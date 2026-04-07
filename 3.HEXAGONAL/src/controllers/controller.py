@@ -25,7 +25,24 @@ def crear_blueprint_productos(
   return productos_c
 
 
+# 5. El controller conecta todo
 
+"""Aquí se arma el sistema completo"""
+
+
+
+# Idea clave (nivel pro)
+"""
+Si mañana cambias MySQL por:
+
+PostgreSQL
+MongoDB
+API externa
+
+ SOLO cambias infrastructure/
+todo lo demás sigue igual
+
+"""
 
 
 

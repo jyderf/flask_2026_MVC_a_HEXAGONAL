@@ -29,3 +29,8 @@ class ImagenProductoMongo:
     ]))
 
     return imagenes
+
+
+# 3. El repositorio cumple la promesa
+"""Aquí sí hay SQL
+ Aquí sí hay conexión"""
